@@ -1,0 +1,13 @@
+{
+  "name": "thunderlink",
+  "version": "1.5.2",
+  "module": "./src/index.js",
+  "types": "./types/index.d.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
